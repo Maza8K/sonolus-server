@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "title": {
+    "en": "Project Sekai",
+    "es": "Project Sekai"
+  },
+  "subtitle": {
+    "en": "Colorful Stage!",
+    "es": "Colorful Stage!"
+  },
+  "author": {
+    "en": "Community",
+    "es": "Comunidad"
+  },
+  "description": {
+    "en": "Recreation of Project Sekai engine",
+    "es": "Recreación del motor de Project Sekai"
+  },
+  "meta": {
+    "version": 1
+  }
+}

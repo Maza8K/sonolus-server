@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "title": {
+    "en": "ktqsis Server",
+    "es": "ktqsis Server"
+  },
+  "subtitle": {
+    "en": "Niveles de reggaeton",
+    "es": "Niveles de reggaeton"
+  },
+  "description": {
+    "en": "Custom Sonolus server: Niveles de reggaeton",
+    "es": "Servidor Sonolus personalizado: Niveles de reggaeton"
+  },
+  "icon": "server_icon"
+}

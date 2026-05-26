@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "version": 1,
+      "title": {
+        "en": "Esclava",
+        "es": "Esclava"
+      },
+      "subtitle": {
+        "en": "Bryant Myers, Anonimus",
+        "es": "Bryant Myers, Anonimus"
+      },
+      "author": {
+        "en": "ktqsis",
+        "es": "ktqsis"
+      },
+      "tags": [
+        {
+          "title": {
+            "en": "Hard",
+            "es": "Hard"
+          },
+          "icon": "tag_hard"
+        },
+        {
+          "title": {
+            "en": "95 BPM",
+            "es": "95 BPM"
+          },
+          "icon": "tag_bpm"
+        }
+      ],
+      "description": {
+        "en": "Auto-generated level for Esclava by Bryant Myers, Anonimus. BPM: 95, Difficulty: Hard Lv.18",
+        "es": "Nivel auto-generado de Esclava por Bryant Myers, Anonimus. BPM: 95, Dificultad: Hard Lv.18"
+      },
+      "meta": {
+        "difficulty": 18,
+        "rating": "Hard"
+      }
+    }
+  ]
+}
